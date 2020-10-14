@@ -1,0 +1,231 @@
+.body {
+    background-color: #000000;
+    font-family: 'Raleway', sans-serif;
+}
+.cv {
+    font-size: 24px;
+}
+.poto img{
+    margin-top: -20px;
+    width: 150px;
+    height: 150px;
+    margin-left: 480px;
+}
+.bagiantengah{
+    margin-left: 650px;
+    margin-right: 650px;
+    position: absolute;
+
+}
+.bagiankiri {
+    height: 1400px;
+    width: 55%;
+    float: left;
+    margin-left: 420px;
+    position: absolute;
+}
+.nama {
+    height: 10px;
+    width: 475px;
+    float: left;
+    margin-left: 35px;
+    position: absolute;
+    font-size: 24px;
+    margin-top: -16px;
+}
+.setelahgambarlocation {
+    margin-top: -48px;
+    width: 10x;
+    height: 30px;
+    margin-left: 43px;
+    position: absolute;
+}
+.deskripsi {
+    height: 0px;
+    width: 17%;
+    float: right;
+    margin-left: 670px;
+    position: absolute;
+}
+.gambarlocation img{
+    margin-top: 48px;
+    width: 35px;
+    height: 35px;
+    margin-left: 0px;
+}
+.gambaremail img{
+    margin-top: 10px;
+    width: 35px;
+    height: 35px;
+    margin-left: 0px;
+}
+.setelahgambaremail {
+    margin-top: -45px;
+    width: 10x;
+    height: 30px;
+    margin-left: 43px;
+    position: absolute;
+}
+.gambarcall img{
+        margin-top: 10px;
+        width: 35px;
+        height: 35px;
+        margin-left: 0px;
+}
+.setelahgambarcall {
+        margin-top: -45px;
+        width: 10x;
+        height: 30px;
+        margin-left: 43px;
+        position: absolute;
+}
+.hoby {
+    height: 10px;
+    width: 475px;
+    float: left;
+    margin-left: 35px;
+    position: absolute;
+    font-size: 24px;
+    margin-top: -16px;
+}
+.gambarfarming{
+    margin-top: 40px;
+    width: 35px;
+    height: 35px;
+    margin-left: 0px;
+}
+.setelahgambarfarming {
+    margin-top: -40px;
+    width: 200x;
+    height: 200px;
+    margin-left: 43px;
+    position: absolute;
+}
+
+.gambarhiking{
+    margin-top: 5px;
+    width: 35px;
+    height: 35px;
+    margin-left: 0px;
+}
+.setelahgambarhiking {
+    margin-top: -50px;
+    width: 200x;
+    height: 200px;
+    margin-left: 43px;
+    position: absolute;
+}
+.gambarsinging{
+    margin-top: 5px;
+    width: 35px;
+    height: 35px;
+    margin-left: 0px;
+}
+.setelahgambarsinging {
+    margin-top: -50px;
+    width: 200x;
+    height: 200px;
+    margin-left: 43px;
+    position: absolute;
+}
+.gambarcooking{
+    margin-top: 5px;
+    width: 35px;
+    height: 35px;
+    margin-left: 0px;
+}
+.setelahgambarcooking {
+    margin-top: -50px;
+    width: 200x;
+    height: 200px;
+    margin-left: 43px;
+    position: absolute;
+}
+.education {
+    height: 100px;
+    width: 100%;
+    float: right;
+    margin-left: 670px;
+    position: absolute;
+    margin-top: 120px;
+    font-size: 24px;
+}
+.list {
+    height: 0px;
+    width: 17%;
+    float: right;
+    margin-left: 670px;
+    position: absolute;
+    margin-top: 160px;
+    font-size: 15px;
+}
+.sosmed {
+    height: 100px;
+    width: 100%;
+    float: right;
+    margin-left: 670px;
+    position: absolute;
+    margin-top: 330px;
+    font-size: 24px;
+}
+.gambarwa img {
+    float: right;
+    margin-left: 670px;
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    margin-top: 390px;
+}
+.setelahgambarwa {
+    float: right;
+    margin-left: 710px;
+    position: absolute;
+    margin-top: 380px;
+
+}
+
+.gambartwitter img {
+    float: right;
+    margin-left: 670px;
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    margin-top: 430px;
+}
+.setelahgambartwitter {
+    float: right;
+    margin-left: 710px;
+    position: absolute;
+    margin-top: 420px;
+
+}
+
+.gambargoogle img {
+    float: right;
+    margin-left: 670px;
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    margin-top: 470px;
+}
+.setelahgambargoogle {
+    float: right;
+    margin-left: 710px;
+    position: absolute;
+    margin-top: 460px;
+}
+
+.gambarig img {
+    float: right;
+    margin-left: 670px;
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    margin-top: 510px;
+}
+.setelahgambarig {
+    float: right;
+    margin-left: 710px;
+    position: absolute;
+    margin-top: 500px;
+}
